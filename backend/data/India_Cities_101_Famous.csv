@@ -1,0 +1,4 @@
+name,state,type,tags,roi,hoi,costSingle,supports
+Bengaluru,Karnataka,Metro,"tech;green",0.7,0.8,800,"Freedom;Variety"
+Mysuru,Karnataka,Tier2,"heritage;calm",0.6,0.9,500,"Quiet;Nature"
+Delhi,Delhi,Metro,"capital;busy",0.8,0.5,900,"Variety;Social"
